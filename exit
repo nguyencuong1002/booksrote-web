@@ -1,0 +1,199 @@
+[33mcommit 4aa009f944c97ee92dc62508053db995abf5b1d7[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vinh Ngo <nanyangbk@gmail.com>
+Date:   Fri May 6 14:23:28 2022 +0700
+
+    Update env
+
+[33mcommit 81f76aa0a85b3023635a1a95710266ad4acfccf4[m
+Author: Thai <moondevvn@gmail.com>
+Date:   Fri Dec 3 20:32:20 2021 +0700
+
+    Update: security report
+
+[33mcommit 3c64785c020f44ba3e0f6c3172a9d6020a3d0cba[m
+Author: Quang Vinh Bee <moondevvn@gmail.com>
+Date:   Sun Nov 21 14:13:49 2021 +0700
+
+    ADD: https config
+
+[33mcommit 6d4910bf97ee9dae159f3350e6a1a96bf26e9f39[m
+Merge: d093d87 0b6f12f
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Thu Nov 18 10:52:56 2021 +0700
+
+    Merge branch 'dev' of https://github.com/quangvinhbee/bookstore-web into dev
+
+[33mcommit d093d8752734f652a91fd6ca5aa0dba725196e73[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Thu Nov 18 10:52:51 2021 +0700
+
+    Fix: deploy vercel
+
+[33mcommit 0b6f12f07d53a5f0844052bd3888c1b7e760ae8e[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Wed Nov 17 19:49:48 2021 +0700
+
+    Create webpack.yml
+
+[33mcommit ddd285fdf605d815a994ac0252a6823d78a2ba98[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Wed Nov 17 19:43:26 2021 +0700
+
+    Fix: book page
+
+[33mcommit 86e1804a61bed3855fd5d0857fa76b637161197c[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Tue Nov 2 11:40:16 2021 +0700
+
+    ADD: cart in shop
+
+[33mcommit 42ebbb19dc6cb6bf8fafcb78eb8d95f1e4cae93d[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Mon Nov 1 11:37:22 2021 +0700
+
+    FIX: import swipper css
+
+[33mcommit 719ef208092f5afe838bdac6f0e1f8ad29dc042b[m
+Merge: 6c54935 fe0ca49
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sun Oct 31 01:20:58 2021 +0700
+
+    Merge branch 'dev' of https://github.com/quangvinhbee/bookstore-web into dev
+
+[33mcommit 6c54935781d4d4e56c8f13928c6c68a0efdf54f9[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sun Oct 31 01:10:10 2021 +0700
+
+    Fix: flow auth user
+
+[33mcommit 688600ba090fd9b57a6de22a48391db8e56af26f[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 22:17:13 2021 +0700
+
+    Fix: flow auth user
+
+[33mcommit a0b0d71ee2eff4c87244ba7648f02ee5dd446cbe[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 20:35:16 2021 +0700
+
+    ADD: user page manager
+
+[33mcommit fe0ca499db4d03494b3dfc7269c10393351b1659[m
+Merge: 4f8a59a b062d57
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 17:32:13 2021 +0700
+
+    Merge pull request #2 from quangvinhbee/master
+    
+    Merge pull request #1 from quangvinhbee/dev
+
+[33mcommit b062d574117d6be8aa841ed60eb7a51d2cfbc84f[m
+Merge: 15f42fa 4f8a59a
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 17:31:48 2021 +0700
+
+    Merge pull request #1 from quangvinhbee/dev
+    
+    master
+
+[33mcommit 4f8a59a23f9933cf335df63e8823fa7fc0ae0b6c[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 16:23:09 2021 +0700
+
+    ADD: handel User backend
+
+[33mcommit fb3491e3377fd7ef545c994ea1d49bb4c361a910[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 15:07:32 2021 +0700
+
+    Feat: phân lại flow auth admin và user
+
+[33mcommit b6a15b7f71a3f6e64bdb8cdc16ed3e66454984fa[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 30 12:38:41 2021 +0700
+
+    FIX: lỗi không tải được hình ảnh (thư viện helmet)
+
+[33mcommit 39553db850566c3d5af1590f5fec2fe5ea877867[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Fri Oct 29 16:15:03 2021 +0700
+
+    ADD: page manager (book, author, category)
+
+[33mcommit eaecea3d3218fab5ab9c9cc4c80dd9610875830b[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Thu Oct 28 14:42:19 2021 +0700
+
+    Fix: Replace title -> name
+
+[33mcommit 4f57b1c5c0c8c98037883612af4ab5e5c99baca5[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Thu Oct 28 14:22:41 2021 +0700
+
+    ADD: form && serviceCRUD
+
+[33mcommit bd476239c28ca6c49932855ad5e0b640aadca288[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Wed Oct 27 23:12:26 2021 +0700
+
+    ADD: flow auth
+
+[33mcommit ba40b0acbb2d6f43e93e457f6cf4a90be3f0a478[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Wed Oct 27 13:00:10 2021 +0700
+
+    ADD: custom axios && add getUserByToken
+
+[33mcommit 9401aef23eac77c64b85606809c18049d4fc5ca1[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Wed Oct 27 10:13:53 2021 +0700
+
+    ADD: giao diện, auth provider admin
+
+[33mcommit 877ce308adb6fec6902ad64545c192da19ffc89e[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Tue Oct 26 00:55:11 2021 +0700
+
+    ADD: chức năng author, category
+
+[33mcommit d2f20464f96acc79e7bd8118e7ded3b1545de79d[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Mon Oct 25 01:46:39 2021 +0700
+
+    ADD: function Book
+
+[33mcommit 16abccc7adb06f9e251b389a64000bf62169facc[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sun Oct 24 16:33:42 2021 +0700
+
+    ADD: tạo sách, tạo tác giả, tạo danh mục
+
+[33mcommit 638508f3af1e924dd5f095fed10d6cf33bd930f0[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sun Oct 24 15:32:19 2021 +0700
+
+    ADD: create Author
+
+[33mcommit 03475b5532efdc97b67ba76f26ea459163c8f3a5[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sun Oct 24 14:42:29 2021 +0700
+
+    ADD: jwt Admin
+
+[33mcommit bc1cf824d1decc53a04286a01f437e441d274431[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 23 15:17:45 2021 +0700
+
+    ADD: jwt authentication
+
+[33mcommit 250c8a4ccba760690bee48fe60eb4155c7d2324c[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Sat Oct 23 01:20:50 2021 +0700
+
+    ADD: đăng nhập User
+
+[33mcommit 15f42fae15382717737ade78f3c8dac6892e9641[m
+Author: Quang Vinh Bee <72595494+quangvinhbee@users.noreply.github.com>
+Date:   Fri Oct 22 20:40:11 2021 +0700
+
+    ADD: create app && config

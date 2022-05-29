@@ -12,7 +12,7 @@ export function NoneLayout({ ...props }) {
     return (
         <div className="w-full">
             <DefaultHead />
-            <NextSeo defaultTitle={'N17DCAT078'} title={props.title ? props.title : ''} />
+            <NextSeo defaultTitle={'N17DCAT009'} title={props.title ? props.title : ''} />
             <Header />
             <div
                 className="w-full h-full flex flex-col"

@@ -11,7 +11,7 @@ module.exports = {
     },
     publicRuntimeConfig: {
         seo: {
-            title: 'N17DCAT078',
+            title: 'N17DCAT009',
             siteName: 'ptithcm',
         },
     },
